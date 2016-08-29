@@ -1,2 +1,0 @@
-# monitoring
-server monitoring system
